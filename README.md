@@ -4,7 +4,7 @@ Machine learning regression project predicting hourly Interstate 94 westbound tr
 
 **Developer:** Mujtaba Ahmed  
 **Group:** Individual project (Mujtaba Ahmed)  
-**Repository:** [Metro-Interstate-Traffic-Volume-Forecasting](https://github.com/Themujmatrix/Metro-Interstate-Traffic-Volume-Forecasting) (proposed URL; create this repository to activate the link)  
+**Repository:** [Metro-Interstate-Traffic-Volume-Forecasting](https://github.com/Themujmatrix/Metro-Interstate-Traffic-Volume-Forecasting)
 **Dataset:** [UCI Metro Interstate Traffic Volume](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
 
 ## Project description
